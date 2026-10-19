@@ -1,0 +1,9 @@
+{
+  "name": "kuliah-sebulan-jadi-pengusaha",
+  "version": "1.0.0",
+  "description": "Landing page Kuliah Sebulan Jadi Pengusaha (PPQ) dengan pemutar video MP4",
+  "scripts": {
+    "videos": "node scripts/generate-videos.js",
+    "start": "npx serve ."
+  }
+}

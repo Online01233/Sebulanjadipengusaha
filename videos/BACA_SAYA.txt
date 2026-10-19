@@ -1,0 +1,5 @@
+CARA PALING MUDAH:
+1. Ganti nama file video kamu menjadi:  video1.mp4
+   (video kedua: video2.mp4, ketiga: video3.mp4, dst)
+2. Taruh di folder ini (videos).
+3. Refresh halaman (Ctrl+F5). Selesai - tidak perlu mengetik apa pun.
